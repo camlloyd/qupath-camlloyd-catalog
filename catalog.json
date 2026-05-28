@@ -9,6 +9,20 @@
             "homepage": "https://github.com/camlloyd/qupath-extension-controller",
             "releases": [
                 {
+                    "name": "v0.2.0",
+                    "main_url": "https://github.com/camlloyd/qupath-extension-controller/releases/download/v0.2.0/qupath-extension-controller-0.2.0.jar",
+                    "required_dependency_urls": null,
+                    "optional_dependency_urls": null,
+                    "javadoc_urls": [
+                        "https://github.com/camlloyd/qupath-extension-controller/releases/download/v0.2.0/qupath-extension-controller-0.2.0-javadoc.jar"
+                    ],
+                    "version_range": {
+                        "min": "v0.7.0",
+                        "max": null,
+                        "excludes": null
+                    }
+                },
+                {
                     "name": "v0.1.0",
                     "main_url": "https://github.com/camlloyd/qupath-extension-controller/releases/download/v0.1.0/qupath-extension-controller-0.1.0-SNAPSHOT.jar",
                     "required_dependency_urls": null,
